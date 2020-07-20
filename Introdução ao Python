@@ -1,0 +1,52 @@
+print ('Olá, Mundo!') 
+
+#Operações Principais
+1 + 1
+1 - 1
+2 * 2
+10 / 2
+10 // 3
+10 % 3
+
+#Potenciação
+2**2
+
+#Comparador (Primeiro exemplo: um é MENOR que dois?; Segundo exemplo: um é MAIOR que dois?)
+1 < 2  
+1 > 2
+
+#Outros operadores de comparação (Primeiro exemplo: dez é MENOR ou IGUAL A DEZ?; Segundo exemplo: dez é MAIOR ou igual a cem?)
+10 <= 10
+10 >= 100
+
+#Igualdade
+9**2 == 81
+
+#Diferente
+1 != 2
+
+#Variáveis (São uma espécie de "caixas" que armazem os dados)
+x = 2
+print (x)
+
+#Strings
+frase = 'O Henrique é um cara bacana'
+
+#Classes
+10
+type (10)
+
+#Números com PONTO FLUTUANTE
+peso = 75
+altura = 1.90
+
+IMC = peso / (altura ** 2)
+
+#Transformando o resultado em INTEIRO
+IMC = int(IMC)
+
+#Para descobrir quantos CARACTERES tem um texto
+texto = "Olá, tudo bem?"
+len(texto)
+
+inteiro = str(IMC)

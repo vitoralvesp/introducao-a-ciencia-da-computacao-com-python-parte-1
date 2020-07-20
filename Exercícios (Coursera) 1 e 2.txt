@@ -1,0 +1,7 @@
+#Perímetro: x - área:y
+temp = float(input("Digite o valor correspondente ao lado de um quadrado:"))
+area = temp ** 2 
+perimetro = temp * 4
+x = perimetro
+y = area
+print("perímetro:", x,"- área:", y)
